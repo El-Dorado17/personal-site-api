@@ -1,0 +1,65 @@
+{
+    "facts": [
+        {
+            "id": 1,
+            "statement": "My name is Ely",
+            "valid": true
+        },
+        {
+            "id": 2,
+            "statement": "My name is Eli",
+            "valid": false
+        },
+        {
+            "id": 3,
+            "statement": "My favorite fruit is Lime",
+            "valid": true
+        },
+        {
+            "id": 4,
+            "statement": "My favorite fruit is Banana",
+            "valid": false
+        },
+        {
+            "id": 5,
+            "statement": "I was born Texas and raised in New Hampshire",
+            "valid": false
+        },
+        {
+            "id": 6,
+            "statement": "I was born in Texas but I've lived in too many states to credit one for my upbringing",
+            "valid": true
+        },
+        {
+            "id": 7,
+            "statement": "My favorite movie is Inception",
+            "valid": false
+        },
+        {
+            "id": 8,
+            "statement": "My favorite movie is DreamWorks' 'Mr. Peabody & Sherman' ",
+            "valid": true
+        },
+        {
+            "id": 9,
+            "statement": "Although I don't look like it, I very much enjoy Country music",
+            "valid": false
+        },
+        {
+            "id": 10,
+            "statement": "I'm an Emo kid at-heart who still jams to screaming lyrics & metal  ",
+            "valid": true
+        },
+        {
+            "id": 11,
+            "statement": "If you know me, you know I'm ALWAYS talking about my favorite rapper Jack Harlow!",
+            "valid": false
+        },
+        {
+            "id": 12,
+            "statement": "I'll always find a way to tell you about a singer, producer, & musical-genius named Aries!",
+            "valid": true
+        }
+    ]
+}
+
